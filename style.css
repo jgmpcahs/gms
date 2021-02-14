@@ -1,0 +1,65 @@
+table,th,td{
+  border:  2px solid;
+  text-align: left ;
+  max-width: 100%;
+  
+ 
+}
+
+
+
+table{
+ max-width:400px;
+  border-collapse:collapse;
+  
+  
+}
+
+
+th,td {
+  padding: 15px;
+  
+  
+}
+  
+  
+
+
+
+h1{
+  text-align: Center ;
+  
+  font-size: 20px
+  
+
+}
+
+h2{
+text-align: center;
+font-size: 25px;
+
+
+}
+.S{
+ text-align: center; 
+ font-size: 25px;
+  
+  
+}
+.T{
+  text-align: center;
+  font-size: 25px;
+  
+}
+
+  
+
+  
+  
+  
+
+
+ 
+
+
+  
